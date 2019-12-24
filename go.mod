@@ -1,4 +1,4 @@
-module github.com/ica10888/client-go-helper
+module github.com/jonesmith518/client-go-helper
 
 replace (
 	github.com/renstrom/dedent => github.com/lithammer/dedent v1.1.0
